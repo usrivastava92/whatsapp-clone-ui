@@ -7,7 +7,7 @@ export class PROD_URLS {
     static GET_PROFILE_URL = `${PROD_URLS.PROFILE_SERVICE}/profile/get`;
     static CREATE_TOKEN_URL = `${PROD_URLS.PROFILE_SERVICE}/token/create`;
     static VALIDATE_TOKEN_URL = `${PROD_URLS.PROFILE_SERVICE}/token/validate`;
-    static SOCKET_CONNECT_URL = `${PROD_URLS.GATEWAY_SERVICE}/socket`;
+    static SOCKET_CONNECT_URL = `${PROD_URLS.GATEWAY_SERVICE}/socket?token=`;
 }
 
 export class DEV_URLS {
