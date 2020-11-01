@@ -1,4 +1,4 @@
-class PROD_URLS {
+export default class PROD_URLS {
     static BASE_URL = "https://whatsapp-api-gateway.herokuapp.com"
     static SESSIONS_SERVICE = `${PROD_URLS.BASE_URL}/sessions-service`;
     static GATEWAY_SERVICE = `${PROD_URLS.BASE_URL}/gateway-service`;
@@ -11,7 +11,7 @@ class PROD_URLS {
     static GET_CONNECTIONS_URL = `${PROD_URLS.PROFILE_SERVICE}/profile/get/connections`;
 }
 
-export default class DEV_URLS {
+class DEV_URLS {
     static BASE_URL = "http://localhost:9204";
     static SESSIONS_SERVICE = `${DEV_URLS.BASE_URL}/sessions-service`;
     static GATEWAY_SERVICE = `${DEV_URLS.BASE_URL}/gateway-service`;
