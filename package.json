@@ -8,7 +8,7 @@
     "@mui/material": "5.14.6",
     "@mui/icons-material": "5.14.6",
     "@material-ui/lab": "4.0.0-alpha.61",
-    "axios": "1.4.0",
+    "axios": "1.5.0",
     "node-sass": "9.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
