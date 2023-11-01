@@ -5,8 +5,8 @@
   "license": "BSD-3-Clause",
   "private": true,
   "dependencies": {
-    "@mui/material": "5.14.15",
-    "@mui/icons-material": "5.14.15",
+    "@mui/material": "5.14.16",
+    "@mui/icons-material": "5.14.16",
     "@material-ui/lab": "4.0.0-alpha.61",
     "axios": "1.6.0",
     "node-sass": "9.0.0",
