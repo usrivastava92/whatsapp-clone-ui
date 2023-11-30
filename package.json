@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/jest": "29.5.10",
     "@types/material-ui": "0.21.14",
-    "@types/node": "18.18.14",
+    "@types/node": "18.19.0",
     "@types/react": "18.2.39",
     "@types/react-dom": "18.2.17",
     "@types/react-router-dom": "5.3.3",
